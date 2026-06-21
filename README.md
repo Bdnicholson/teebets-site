@@ -14,6 +14,6 @@ here is the published copy. Keep them in sync when the policy changes.
 
 GitHub Pages is served from the `main` branch root. Live URLs:
 
-- https://bdnicholson.github.io/teebets-site/
-- https://bdnicholson.github.io/teebets-site/privacy.html
-- https://bdnicholson.github.io/teebets-site/support.html
+- https://Bdnicholson.github.io/teebets-site/
+- https://Bdnicholson.github.io/teebets-site/privacy.html
+- https://Bdnicholson.github.io/teebets-site/support.html
